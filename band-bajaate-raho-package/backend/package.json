@@ -1,0 +1,23 @@
+{
+  "name": "band-bajaate-raho-backend",
+  "version": "1.0.0",
+  "description": "Backend for Band Bajaate Raho consumer community app",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "consumer",
+    "community",
+    "twitter",
+    "x",
+    "social"
+  ],
+  "author": "",
+  "license": "ISC"
+}
